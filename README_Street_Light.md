@@ -30,3 +30,5 @@ The components were connected on a breadboard using the required components.
 - LED turns ON in darkness.
 - LED turns OFF in bright light.
 - The circuit automatically controls the LED based on light intensity.
+  ![street_light_project](Street_light_project.jpg)
+  
